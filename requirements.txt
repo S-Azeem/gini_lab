@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+statsmodels
+matplotlib
+jupyter
+seaborn
+# optional for module 2: featuretools

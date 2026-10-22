@@ -1,0 +1,17 @@
+{
+  "n_loans": 40000,
+  "dev_bad_rate": 0.04075612796011633,
+  "oot_bad_rate": 0.04174513496547395,
+  "iv_credit_score": 0.4007360954365998,
+  "leaks": [
+    "collections_letters_12m",
+    "district_bad_rate"
+  ],
+  "val_gini": 0.5364937948616721,
+  "oot_gini": 0.4830930257185708,
+  "pd12_gini": 0.5748850726377128,
+  "sicr_best_youden": 0.3298993416670103,
+  "ecl_total": 1363112.9055321238,
+  "uplift_lo": 1.1,
+  "uplift_hi": 1.5
+}
